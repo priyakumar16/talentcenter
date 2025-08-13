@@ -10,7 +10,7 @@ const Dashboarddata = () => {
     const [stages,setStages] = useState([]);
     useEffect(()=>
         {
-            fetch("http://localhost:3000/stage")
+            fetch("/stage")
             .then((res)=>res.json())
             .then((data)=>setStages(data))
             .catch(err=>(console.error(err)));
@@ -19,7 +19,7 @@ const Dashboarddata = () => {
     const [candidates,setCandidates] = useState([]);
     useEffect(()=>
         {
-            fetch("http://localhost:3000/candidate")
+            fetch("/candidate")
             .then((res) => res.json())
             .then((data) => setCandidates(data))
             .catch(err=>(console.error(err)))

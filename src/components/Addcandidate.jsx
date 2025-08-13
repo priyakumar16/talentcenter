@@ -7,7 +7,7 @@ export default function Addcandidate() {
 
   useEffect(() => 
   {
-    fetch("http://localhost:3000/candidate")
+    fetch("/candidate")
     .then((res) => res.json())
     .then((data) => setCandidates(data))
     .catch((err) => console.log(err));

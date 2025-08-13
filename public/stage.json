@@ -1,0 +1,34 @@
+{ 
+  "stage" : [
+   { 
+    "id" : "01",
+    "title" : "Open",
+    "count": 11
+  },
+  {
+    "id" : "02",
+    "title": "Contacted",
+    "count": 6
+  },
+  { 
+    "id": "03", 
+    "title": "Written Test",
+    "count": 24
+  },
+  { 
+    "id": "04", 
+    "title": "Technical Round",
+    "count": 3
+  },
+  { 
+    "id": "05", 
+    "title": "Culture Round",
+    "count": 3
+  },
+   { 
+    "id": "06", 
+    "title": "HR Round",
+    "count": 1
+  } 
+  ]
+}
