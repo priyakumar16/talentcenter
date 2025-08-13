@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root{   font-family: "Nunito", sans-serif;}
+.w-95{width: 95%;}
+ 
+.primary {background-color: rgb(16 51 72); color: #fff; }
+.btn-primary { background-color: rgb(16 51 72); color: #fff; border-radius: 5px;padding: 5px 10px;
+    font-size: 13px;}
+.navmenu li{ font-size: 20px; padding: 10px;}
+.container-fluid {padding: 10px 20px;}
+.useropen li{line-height: 30px; border-bottom: 1px solid #000; margin-bottom: 10px; font-size: small;}
+.useropen{ padding: 10px 0; } 
+:focus-visible { outline: none;}

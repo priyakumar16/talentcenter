@@ -1,0 +1,184 @@
+{ 
+  "stage" : [
+   { 
+    "id" : "01",
+    "title" : "Open",
+    "count": 11
+  },
+  {
+    "id" : "02",
+    "title": "Contacted",
+    "count": 6
+  },
+  { 
+    "id": "03", 
+    "title": "Written Test",
+    "count": 24
+  },
+  { 
+    "id": "04", 
+    "title": "Technical Round",
+    "count": 3
+  },
+  { 
+    "id": "05", 
+    "title": "Culture Round",
+    "count": 3
+  }  
+  ],
+
+  "candidate" : [  
+  {
+    "id" : "1",
+    "name": "Amirdharshan A",
+    "company": "Intellectyx Data Science Private Ltd",
+    "team": "2 members",
+    "rating": 3,
+    "stage" : "Open"
+  },
+  {
+    "id" : "2",
+    "name": "Akash P",
+    "company": "Centre",
+    "team": "2 members",
+    "rating": 2,
+    "stage" : "Contacted"
+  },
+  {
+    "id" : "3",
+    "name": "Vijay Bhupathi V",
+    "company": "Topclass Entertainment LLP",
+    "team": "2 members",
+    "rating": 4,
+    "stage" : "Written Test"
+  },
+  {
+    "id" : "4",
+    "name": "Arun Kumar",
+    "company": "Vidhya Skill School",
+    "team": "2 members",
+ 
+    "stage" : "Technical Round"
+  },
+  {
+    "id" : "4",
+    "name": "Dineshkumar",
+    "company": "Wipro Technologies",
+    "team": "2 members",
+    "rating": 1,
+    "stage" : "Culture Round"
+  },
+  {
+    "id" : "5",
+    "name": "Vimal Kumar",
+    "company": "Sirius Computer Solutions",
+    "team": "2 members",
+    "rating": 2,
+    "stage" : "Open"
+  },
+  {
+    "id" : "6",
+    "name": "Gayathri L",
+    "company": "Katamaran Technologies Pvt Ltd",
+    "team": "2 members",
+    "rating": 3,
+    "stage" : "Contacted"
+  },
+  {
+    "id" : "7",
+    "name": "M Janasri",
+    "company": "TCS",
+    "team": "2 members",
+    "rating": 4,
+    "stage" : "Written Test"
+  },
+  {
+    "id" : "8",
+    "name": "Midhun Krishna S",
+    "company": "Cognizant",
+    "team": "2 members",
+    "rating": 0,
+    "stage" : "Technical Round"
+  },
+  {
+    "id" : "9",
+    "name": "Jayakrishnan Duraisamy",
+    "company": "Lakeba IT Solutions",
+    "team": "2 members",
+    "rating": 0,
+    "stage" : "Open"
+  },
+  {
+    "id" : "10",
+    "name": "S Suresh",
+    "company": "Synopsis",
+    "team": "2 members",
+    "rating": 1,
+    "stage" : "Open"
+  },
+  {
+    "id" : "11",
+    "name": "Mohamed Mubarak",
+    "company": "MongoDB",
+    "team": "2 members",
+    "rating": 0,
+    "stage" : "Written Test"
+  },
+  {
+    "id" : "12",
+    "name": "Gowri Shankar S",
+    "company": "BM Technovations",
+    "team": "2 members",
+    "rating": 3,
+    "stage" : "Technical Round"
+  },
+  {
+    "id" : "13",
+    "name": "Affan Ahmed Syed",
+    "company": "Smart Parking",
+    "team": "2 members",
+    "rating": 0,
+    "stage" : "Open"
+  },
+  {
+    "id" : "14",
+    "name": "Arun Prakash A",
+    "company": "IIT Madras",
+    "team": "2 members",
+    "rating": 0,
+    "stage" : "06"
+  },
+  {
+    "id" : "15",
+    "name": "Jithin Sajay A",
+    "company": "Infosys",
+    "team": "2 members",
+    "rating": 2,
+    "stage" : "Written Test"
+  },
+  {
+    "id" : "16",
+    "name": "Pradeep K",
+    "company": "Cognizant Technology Solutions",
+    "team": "2 members",
+    "rating": 0,
+    "stage" : "HR Round"
+  },
+  {
+    "id" : "17",
+    "name": "Hemachandru K",
+    "company": "Paypal Client",
+    "team": "2 members",
+    "rating": 5,
+    "stage" : "Culture Round"
+  },
+  {
+    "id" : "18",
+    "name": "Sruthi Radhakrishnan",
+    "company": "Konnectify",
+    "team": "2 members",
+    "rating": 0,
+    "stage" : "Culture Round"
+  }
+]
+}
